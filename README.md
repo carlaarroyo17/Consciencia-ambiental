@@ -13,7 +13,7 @@ material | costo | tiempo
  dispensadores de agua | 2000 | 12 h |
  botes | 300 | 6h |
  
- ## publico al que está dirigido
+## publico al que está dirigido
    - [x] estudiantes universitarios
    - [x] Trabajadores universitarios
    

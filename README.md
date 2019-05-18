@@ -1,3 +1,4 @@
+
 # Consciencia verde ☘ 
 Mi proyecto consiste en
 :stuck_out_tongue_winking_eye:
@@ -13,5 +14,6 @@ material | costo | tiempo
  botes | 300 | 6h |
  
  ## publico al que está dirigido
-   - [ ] estudiantes universitarios
-   - [ ] Trabajadores universitarios
+   - [x] estudiantes universitarios
+   - [x] Trabajadores universitarios
+   
